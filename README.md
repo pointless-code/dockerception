@@ -8,7 +8,7 @@ Docker in Docker in Docker!
 
 ```bash
 docker pull pointlesscode/dockerception:latest
-docker run --rm --privileged -it  -v /var/run/docker.sock:/var/run/docker.sock pointless/dockerception
+docker run --rm --privileged -it  -v /var/run/docker.sock:/var/run/docker.sock pointlesscode/dockerception
 ```
 
 ## Build it yourself
